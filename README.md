@@ -1,6 +1,6 @@
-### Hi there 👋
-### 🔭 I’m currently working on AI Research and Developement
-
+### Hi there it's M.Usman  👋
+### 🔭 I’m currently working on AI Research and Developement.
+### 🌱 I’m currently learning Deep Learning as well as Reinforcement Learning.
 <!--
 **US24MAN2327/US24MAN2327** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
